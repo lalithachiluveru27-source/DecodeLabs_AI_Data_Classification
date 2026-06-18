@@ -1,0 +1,25 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Environment variables
+.env
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Model files (optional if very large)
+*.h5
+*.pkl
+*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
